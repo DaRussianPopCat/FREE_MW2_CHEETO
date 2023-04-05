@@ -35,3 +35,4 @@ FOV Slider - Field of View changer
 Basic config system
 
 WORKS ON BATTLE.NET & STEAM!
+
